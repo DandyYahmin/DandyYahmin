@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!, I'm Dandy Darmawan Al Yahmin</h1>
-<img align="center" alt="ilustration" width="100%" src="https://storyset.com/illustration/programming/pana#C6FF00FF&hide=Plant,Devices&hide=complete">
-<h3 align="justify">have great interest in the world of technology, and have an understanding of basic software technology design and development</h3>
+<img align="center" alt="ilustration" width="100%" src="[https://storyset.com/illustration/programming/pana#C6FF00FF&hide=Plant,Devices&hide=complete](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW9SIgowwLx98Fqj9-wSLMnsqILEXim8QaLQ&usqp=CAU)">
+<h3 align="justify">Im always motivated to try new things, think critically, be thorough, and be disciplined. I have good adaptability, have great interest in the world of technology, and have an understanding of basic software technology design and development.</h3>
 
 - 🌱 I’m currently learning **Cyber Security**
 
