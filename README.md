@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!, I'm Dandy Darmawan Al Yahmin</h1>
-<img align="center" alt="ilustration" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J0Z3AyODVvOGljOTl0aDN0aDIxMW5oM213Z2xuODZ0ZnE3NGNhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIk34ag3V7epgp88U6/source.gif">
+<img align="center" alt="ilustration" width="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J0Z3AyODVvOGljOTl0aDN0aDIxMW5oM213Z2xuODZ0ZnE3NGNhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIk34ag3V7epgp88U6/source.gif">
 <h3 align="justify">Im always motivated to try new things, think critically, be thorough, and be disciplined. I have good adaptability, have great interest in the world of technology, and have an understanding of basic software technology design and development.</h3>
 
 - 🌱 I’m currently learning **Cyber Security**
