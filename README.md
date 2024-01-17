@@ -1,9 +1,9 @@
 <h1 align="center">Hello World!, I'm Dandy Darmawan Al Yahmin</h1>
 <h3 align="justify">Im always motivated to try new things, think critically, be thorough, and be disciplined. I have good adaptability, have great interest in the world of technology, and have an understanding of basic software technology design and development.</h3>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learn **everything**
 
-- 👨‍💻 All of my projects are available at [https://dandyyahmin.github.io/portofolio-next/](https://dandyyahmin.github.io/portofolio-next/)
+- 👨‍💻 U can see all of my projects at [https://dandyyahmin.github.io/portofolio-next/](https://dandyyahmin.github.io/portofolio-next/)
 
 - 📝 I regularly write articles on [https://medium.com/@dandydarmawanalyahmin](https://medium.com/@dandydarmawanalyahmin)
 
