@@ -1,9 +1,20 @@
-<h1 align="center">Hello World!, I'm Dandy Darmawan Al Yahmin</h1>
-<h3 align="justify">Im always motivated to try new things, think critically, be thorough, and be disciplined. I have good adaptability, have great interest in the world of technology, and have an understanding of basic software technology design and development.</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@dandydarmawanalyahmin](https://medium.com/@dandydarmawanalyahmin)
+# Hello World!, I'm Dandy 👋
+As an undergraduate student majoring in Informatics Engineering and a proficient full-stack web developer, I possess a strong foundation in software technology design and development. My journey in the world of technology has fueled my passion for innovation and problem-solving. With a keen interest in staying updated with the latest trends and advancements, I constantly strive to expand my knowledge and skills. My adaptability enables me to thrive in dynamic environments, where I can effectively collaborate with diverse teams to deliver high-quality solutions. Whether it's crafting elegant front-end interfaces or architecting robust back-end systems, I approach each project with dedication and a drive for excellence. As I continue to grow in my field, I aim to make meaningful contributions that positively impact the ever-evolving landscape of technology.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dandydarmawanalyahmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dandydarmawanalyahmin" height="30" width="40" /></a>
-</p>
+## 🛠 Skills
+Javascript, HTML, CSS, PHP, Java, C/C++, NestJS, NextJS, Laravel, CodeIgniter, VueJS, NodeJS, ExpressJS, TailwindCSS, Bootstrap, ReactJS
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dandyyahmin.github.io/portofolio-next/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dandydarmawanalyahmin/)
+[![medium](https://img.shields.io/badge/medium-1DA1F2?style=for-the-badge&logo=mediumr&logoColor=white)]( https://medium.com/@dandydarmawanalyahmin)
+
+
+## 👨‍💻 Related
+
+Personal projects
+
+- [👁‍🗨Secret-Post](https://secret-post.vercel.app/)
+
