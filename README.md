@@ -10,6 +10,7 @@ Javascript, HTML, CSS, PHP, Java, C/C++, NestJS, NextJS, Laravel, CodeIgniter, V
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dandyyahmin.github.io/portofolio-next/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dandydarmawanalyahmin/)
 [![medium](https://img.shields.io/badge/medium-1DA1F2?style=for-the-badge&logo=mediumr&logoColor=white)]( https://medium.com/@dandydarmawanalyahmin)
+![Codewars](https://github.r2v.ch/codewars?user=DandyYahmin&stroke=black)
 
 
 ## 👨‍💻 Related
