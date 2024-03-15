@@ -1,5 +1,6 @@
 
 # Hello World! I'm Dandy 👋
+## I'm Junior Backend Developer👨‍💻 for Budi Luhur University
 As an undergraduate student majoring in Informatics Engineering and a proficient full-stack web developer, I possess a strong foundation in software technology design and development. My journey in the world of technology has fueled my passion for innovation and problem-solving. With a keen interest in staying updated with the latest trends and advancements, I constantly strive to expand my knowledge and skills. My adaptability enables me to thrive in dynamic environments, where I can effectively collaborate with diverse teams to deliver high-quality solutions. Whether it's crafting elegant front-end interfaces or architecting robust back-end systems, I approach each project with dedication and a drive for excellence. As I continue to grow in my field, I aim to make meaningful contributions that positively impact the ever-evolving landscape of technology.
 
 ## 🛠 Skills
@@ -57,13 +58,13 @@ As an undergraduate student majoring in Informatics Engineering and a proficient
 [![Codewars](https://github.r2v.ch/codewars?user=DandyYahmin&stroke=black)](https://www.codewars.com/users/DandyYahmin)
 
 
-## 👨‍💻 Related
+## 🌐 Related
 
-Love Language
+#### Love Language
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DandyYahmin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   
-Personal projects
+#### Personal Projects
 
 - [👁‍🗨Secret-Post](https://secret-post.vercel.app/)
 - [🕹Tetris-Game-Alike](https://dandyyahmin.github.io/tetris/)
